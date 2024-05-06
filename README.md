@@ -1,4 +1,4 @@
-# Plant_Diesease_Detection
+## Plant_Diesease_Detection
 
 # Introduction
 The agricultural industry, comprising more than 570 million farms globally, has historically relied on manual inspections. As an illustration, a study conducted in 2010, required a team of five specialists two weeks to inspect a 50-acre farm. 
