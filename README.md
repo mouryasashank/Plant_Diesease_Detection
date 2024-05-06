@@ -18,9 +18,18 @@ This includes:
 3. Disease Distribution
 4. Class Balance
 
+![Capture1](https://github.com/mouryasashank/Plant_Diesease_Detection/assets/53688863/f0eab436-cc35-4f46-8efa-5dcd12cec8c2)
+
+![Capture2](https://github.com/mouryasashank/Plant_Diesease_Detection/assets/53688863/caf38cd1-2207-4ce2-92b4-e5dd47682947)
+
+
 ## Model Architecture
+![Capture3](https://github.com/mouryasashank/Plant_Diesease_Detection/assets/53688863/407611fd-8d09-4829-be31-25c3b6756b19)
 
 ## Results
+![Capture4](https://github.com/mouryasashank/Plant_Diesease_Detection/assets/53688863/08d097ce-df3a-42e9-ab6b-74e02f5d2aeb)
+![Capture5](https://github.com/mouryasashank/Plant_Diesease_Detection/assets/53688863/cc2ff956-95ff-4b44-a685-759aae9a264f)
+![Capture6](https://github.com/mouryasashank/Plant_Diesease_Detection/assets/53688863/82f663bc-63e6-4e70-8e62-00feb5bdb93c)
 
 ## References
 [1] Saleem, M. H., Potgieter, J., & Arif, K. M. (2019). Plant disease detection and classification by
