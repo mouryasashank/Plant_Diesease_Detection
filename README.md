@@ -24,9 +24,14 @@ This includes:
 
 
 ## Model Architecture
+Developed a deep-learning neural network model with 8 layers, unlike the ResNet or VGG model, to train the data very efficiently.
+
 ![Capture3](https://github.com/mouryasashank/Plant_Diesease_Detection/assets/53688863/407611fd-8d09-4829-be31-25c3b6756b19)
 
 ## Results
+
+As a result, the model is trained very well with the developed model and has a higher accuracy than the usual ones.
+
 ![Capture4](https://github.com/mouryasashank/Plant_Diesease_Detection/assets/53688863/08d097ce-df3a-42e9-ab6b-74e02f5d2aeb)
 ![Capture5](https://github.com/mouryasashank/Plant_Diesease_Detection/assets/53688863/cc2ff956-95ff-4b44-a685-759aae9a264f)
 ![Capture6](https://github.com/mouryasashank/Plant_Diesease_Detection/assets/53688863/82f663bc-63e6-4e70-8e62-00feb5bdb93c)
